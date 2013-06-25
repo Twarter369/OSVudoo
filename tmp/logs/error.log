@@ -1,0 +1,22 @@
+[31-Mar-2013 18:12:15 UTC] PHP Notice:  A session had already been started - ignoring session_start() in C:\wamp\www\application\views\Home\home.php on line 2
+[31-Mar-2013 18:12:15 UTC] PHP Stack trace:
+[31-Mar-2013 18:12:15 UTC] PHP   1. {main}() C:\wamp\www\public\index.php:0
+[31-Mar-2013 18:12:15 UTC] PHP   2. require_once() C:\wamp\www\public\index.php:12
+[31-Mar-2013 18:12:15 UTC] PHP   3. require_once() C:\wamp\www\library\bootstrap.php:4
+[31-Mar-2013 18:12:15 UTC] PHP   4. callHook() C:\wamp\www\library\shared.php:95
+[31-Mar-2013 18:12:15 UTC] PHP   5. VanillaController->__destruct() C:\wamp\www\library\shared.php:95
+[31-Mar-2013 18:12:15 UTC] PHP   6. Template->render() C:\wamp\www\library\vanillacontroller.class.php:33
+[31-Mar-2013 18:12:15 UTC] PHP   7. include() C:\wamp\www\library\template.class.php:30
+[31-Mar-2013 18:12:15 UTC] PHP   8. session_start() C:\wamp\www\application\views\Home\home.php:2
+[31-Mar-2013 18:12:15 UTC] PHP Notice:  Undefined offset: 0 in C:\wamp\www\library\shared.php on line 61
+[31-Mar-2013 18:12:15 UTC] PHP Stack trace:
+[31-Mar-2013 18:12:15 UTC] PHP   1. {main}() C:\wamp\www\public\index.php:0
+[31-Mar-2013 18:12:15 UTC] PHP   2. require_once() C:\wamp\www\public\index.php:12
+[31-Mar-2013 18:12:15 UTC] PHP   3. require_once() C:\wamp\www\library\bootstrap.php:4
+[31-Mar-2013 18:12:15 UTC] PHP   4. callHook() C:\wamp\www\library\shared.php:95
+[31-Mar-2013 18:12:15 UTC] PHP Fatal error:  Class 'Favicon.icoController' not found in C:\wamp\www\library\shared.php on line 69
+[31-Mar-2013 18:12:15 UTC] PHP Stack trace:
+[31-Mar-2013 18:12:15 UTC] PHP   1. {main}() C:\wamp\www\public\index.php:0
+[31-Mar-2013 18:12:15 UTC] PHP   2. require_once() C:\wamp\www\public\index.php:12
+[31-Mar-2013 18:12:15 UTC] PHP   3. require_once() C:\wamp\www\library\bootstrap.php:4
+[31-Mar-2013 18:12:15 UTC] PHP   4. callHook() C:\wamp\www\library\shared.php:95

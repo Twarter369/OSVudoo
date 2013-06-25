@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<CONTENT>
+	<GALLERY name="Movies and Television">
+		<CATEGORY name="T.V. Shows & other Series" desc="Various Video Series" thumb="flv/thumbs/category/television_cat.png">
+			<ITEM>
+				<file_path>flv/some-path.avi</file_path>
+				<file_width>496</file_width>
+				<file_height>276</file_height>
+				<file_title>Dexter</file_title>
+				<file_desc>Dexter Show</file_desc>
+				<file_image>flv/thumbs/video/ultimate-thailand-adv.jpg</file_image>
+				<featured_image>flv/thumbs/featured/ultimate-thailand-adv.jpg</featured_image>
+				<featured_or_not>true</featured_or_not>
+			</ITEM>
+		</CATEGORY>
+		<CATEGORY name="Movies" desc="Movies" thumb="flv/thumbs/category/movies_cat.png">
+			<ITEM>
+				<file_path>flv/theAvengers.mp4</file_path>
+				<file_width>496</file_width>
+				<file_height>276</file_height>
+				<file_title>The Avengers</file_title>
+				<file_desc>The Avengers Movie 2012</file_desc>
+				<file_image>flv/thumbs/video/the_avengers_thumb.jpg</file_image>
+				<featured_image>flv/thumbs/featured/the_avengers_featured.jpg</featured_image>
+				<featured_or_not>true</featured_or_not>
+			</ITEM>
+		</CATEGORY>
+		<CATEGORY name="Personal Videos" desc="Various Videos" thumb="flv/thumbs/category/user_videos_cat.png">
+			<ITEM>
+				<file_path>flv/the-hunger-games.avi</file_path>
+				<file_width>500</file_width>
+				<file_height>400</file_height>
+				<file_title>The Hunger Games </file_title>
+				<file_desc>Released 2012</file_desc>
+				<file_image>flv/thumbs/video/ultimate-thailand-adv.jpg</file_image>
+				<featured_image>flv/thumbs/featured/ultimate-thailand-adv.jpg</featured_image>
+				<featured_or_not>true</featured_or_not>
+			</ITEM>
+		</CATEGORY>
+	</GALLERY>
+	<GALLERY name="Family & Web Images">
+		<CATEGORY name="Family Album" desc="Various Family Photos" thumb="flv/thumbs/category/family_photos_cat.png">
+			<ITEM>
+				<file_path>flv/jdsmith-freak-alley.flv</file_path>
+				<file_width>496</file_width>
+				<file_height>279</file_height>
+				<file_title>JDSmith Freak Alley</file_title>
+				<file_desc>Stop Motion Video</file_desc>
+				<file_image>flv/thumbs/video/jdsmith-freak-alley.jpg</file_image>
+				<featured_image>flv/thumbs/featured/jdsmith-freak-alley.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+		</CATEGORY>
+		<CATEGORY name="From the Ether" desc="Memes and Other Web Images" thumb="flv/thumbs/category/web_photos_cat.png">
+			<ITEM>
+				<file_path>flv/jdsmith-freak-alley.flv</file_path>
+				<file_width>496</file_width>
+				<file_height>279</file_height>
+				<file_title>JDSmith Freak Alley</file_title>
+				<file_desc>Stop Motion Video</file_desc>
+				<file_image>flv/thumbs/video/jdsmith-freak-alley.jpg</file_image>
+				<featured_image>flv/thumbs/featured/jdsmith-freak-alley.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+			<ITEM>
+				<file_path>flv/bsu-basketball-open.f4v</file_path>
+				<file_width>500</file_width>
+				<file_height>281</file_height>
+				<file_title>BSU Basketball</file_title>
+				<file_desc>Game Opener</file_desc>
+				<file_image>flv/thumbs/video/bsu-basketball-open.jpg</file_image>
+				<featured_image>flv/thumbs/featured/bsu-basketball-open.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+		</CATEGORY>
+	</GALLERY>
+	<!--
+	Eveery Category in the audio section except the Radio Category
+	is a CD or Song Collection.
+	-->
+	<GALLERY name="Music & Audio">
+		<CATEGORY name="Radio Stations" desc="Web Radio Stations" thumb="flv/thumbs/category/bsu-basketball-open.jpg">
+			<ITEM>
+				<file_path>flv/jdsmith-freak-alley.flv</file_path>
+				<file_width>496</file_width>
+				<file_height>279</file_height>
+				<file_title>JDSmith Freak Alley</file_title>
+				<file_desc>Stop Motion Video</file_desc>
+				<file_image>flv/thumbs/video/jdsmith-freak-alley.jpg</file_image>
+				<featured_image>flv/thumbs/featured/jdsmith-freak-alley.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+		</CATEGORY>
+		<CATEGORY name="All Songs" desc="All the MP3's you've saved." thumb="flv/thumbs/bsu-basketball-open.jpg">
+			<ITEM>
+				<file_path>flv/jdsmith-freak-alley.flv</file_path>
+				<file_width>496</file_width>
+				<file_height>279</file_height>
+				<file_title>JDSmith Freak Alley</file_title>
+				<file_desc>Stop Motion Video</file_desc>
+				<file_image>flv/thumbs/video/jdsmith-freak-alley.jpg</file_image>
+				<featured_image>flv/thumbs/featured/jdsmith-freak-alley.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+		</CATEGORY>
+		<CATEGORY name="DMX - And then there was X" desc="Dmx Album. Released 2000" thumb="flv/thumbs/audio/cd_art_1.jpg">
+		<!--Every Item is a song file from this CD-->
+			<ITEM>
+				<file_path>flv/jdsmith-freak-alley.flv</file_path>
+				<file_width>496</file_width>
+				<file_height>279</file_height>
+				<file_title>JDSmith Freak Alley</file_title>
+				<file_desc>Stop Motion Video</file_desc>
+				<file_image>flv/thumbs/video/jdsmith-freak-alley.jpg</file_image>
+				<featured_image>flv/thumbs/featured/jdsmith-freak-alley.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+			<ITEM>
+				<file_path>flv/ultimate-thailand-adv.flv</file_path>
+				<file_width>500</file_width>
+				<file_height>400</file_height>
+				<file_title>Send Alex to Thailand!</file_title>
+				<file_desc>Vote on YouTube, he really wants to go!</file_desc>
+				<file_image>flv/thumbs/video/ultimate-thailand-adv.jpg</file_image>
+				<featured_image>flv/thumbs/featured/ultimate-thailand-adv.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+			<ITEM>
+				<file_path>flv/ipc-idaho-mashed-potato-trio.flv</file_path>
+				<file_width>496</file_width>
+				<file_height>276</file_height>
+				<file_title>IPC Video 1</file_title>
+				<file_desc>Desc. for IPC Video</file_desc>
+				<file_image>flv/thumbs/video/ipc.jpg</file_image>
+				<featured_image>flv/thumbs/featured/ipc.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+		</CATEGORY>
+		<CATEGORY name="Ludacris - Back for the first time" desc="Ludacris album" thumb="flv/thumbs/cd_cover_art.jpg">
+			<ITEM>
+				<file_path>flv/jdsmith-freak-alley.flv</file_path>
+				<file_width>496</file_width>
+				<file_height>279</file_height>
+				<file_title>JDSmith Freak Alley</file_title>
+				<file_desc>Stop Motion Video</file_desc>
+				<file_image>flv/thumbs/video/jdsmith-freak-alley.jpg</file_image>
+				<featured_image>flv/thumbs/featured/jdsmith-freak-alley.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+			<ITEM>
+				<file_path>flv/bsu-basketball-open.f4v</file_path>
+				<file_width>500</file_width>
+				<file_height>281</file_height>
+				<file_title>BSU Basketball</file_title>
+				<file_desc>Game Opener</file_desc>
+				<file_image>flv/thumbs/video/bsu-basketball-open.jpg</file_image>
+				<featured_image>flv/thumbs/featured/bsu-basketball-open.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+			<ITEM>
+				<file_path>flv/bsu-football-open.flv</file_path>
+				<file_width>500</file_width>
+				<file_height>281</file_height>
+				<file_title>BSU Football</file_title>
+				<file_desc>Game Opener</file_desc>
+				<file_image>flv/thumbs/video/bsu-football-open.jpg</file_image>
+				<featured_image>flv/thumbs/featured/bsu-football-open.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+			<ITEM>
+				<file_path>flv/gh1test.flv</file_path>
+				<file_width>500</file_width>
+				<file_height>400</file_height>
+				<file_title>New GH1 Test</file_title>
+				<file_desc>Alex Got a new camera and is testing it out</file_desc>
+				<file_image>flv/thumbs/video/gh1test.jpg</file_image>
+				<featured_image>flv/thumbs/featured/gh1test.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+			<ITEM>
+				<file_path>flv/gulfoss.flv</file_path>
+				<file_width>500</file_width>
+				<file_height>400</file_height>
+				<file_title>Iceland Trip</file_title>
+				<file_desc>Alex's trip to Iceland</file_desc>
+				<file_image>flv/thumbs/video/gulfoss.jpg</file_image>
+				<featured_image>flv/thumbs/featured/gulfoss.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+			<ITEM>
+				<file_path>flv/ultimate-thailand-adv.flv</file_path>
+				<file_width>500</file_width>
+				<file_height>400</file_height>
+				<file_title>Send Alex to Thailand!</file_title>
+				<file_desc>Vote on YouTube, he really wants to go!</file_desc>
+				<file_image>flv/thumbs/video/ultimate-thailand-adv.jpg</file_image>
+				<featured_image>flv/thumbs/featured/ultimate-thailand-adv.jpg</featured_image>
+				<featured_or_not>false</featured_or_not>
+			</ITEM>
+		</CATEGORY>
+	</GALLERY>
+</CONTENT>
